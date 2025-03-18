@@ -1,3 +1,4 @@
 Flask
 gunicorn
-AIzaSyCtNw4x5-KUeQacmrxtKACcIIqRtRRrmco
+python-dotenv
+google-generativeai
